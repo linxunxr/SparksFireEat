@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207855769115",
+    "appName": "吃什么",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "461323198428950994",
+    "projectName": "吃什么",
+    "siteId": "CN"
+  },
+  "teamId": "40086000129003941"
+}
